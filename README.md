@@ -29,7 +29,7 @@ _How to install & get the application running._
 
 _Guidelines for usage & application demo._
 
-To use this application simply type the name of the transaction and the amount, then select either **Add Funds** (for deposits) or **Subtract Funds** (for expenses). If you prefer to use the application offline or want to have it easily accessible from your desktop or mobile home screen, it is recommended to download it as a PWA (Progressive Web App). Follow this [PWA Installation Guide](https://medium.com/progressivewebapps/how-to-install-a-pwa-to-your-device-68a8d37fadc1), written by ScandiPWA on [Medium](https://medium.com/), to download the application. Also please reference the gif below to see a demo of the app in action.
+To use this application simply type the name of the transaction and the amount, then select either **Add Funds** (for deposits) or **Subtract Funds** (for expenses). If you prefer to use the application offline or want to have it easily accessible from your desktop or mobile home screen, it is recommended to download it as a PWA (Progressive Web App). Follow this [PWA Installation Guide](https://medium.com/progressivewebapps/how-to-install-a-pwa-to-your-device-68a8d37fadc1), written by _ScandiPWA_ on [Medium](https://medium.com/), to download the application. Also please reference the gif below to see a demo of the app in action.
 
 ![Progressive Budget Demo](public/assets/images/ProgressiveBudget.gif)
 
