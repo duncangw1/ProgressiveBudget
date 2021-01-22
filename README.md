@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the Progessive Budget application is to allow users to track their expenses and deposits with or without an internet connection. When transactions are entered offline, they will populate the total when the applicatin is brought back online. The user is also able to see a list of all previous transactions as well as a chart displaying the account balance history over time. Please view the deployed application [here](https://progressive-budget-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
+The purpose of the Progressive Budget application is to allow users to track their expenses and deposits with or without an internet connection. When transactions are entered offline, they will populate the total when the application is brought back online. The user is also able to see a list of all previous transactions, as well as a chart displaying the account balance history over time. The offline functionality is achieved through the use of IndexedDB and Cache Storage. Please view the deployed application [here](https://progressive-budget-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
 
 ## Table of Contents
 
