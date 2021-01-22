@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the Progessive Budget application is to allow users to ... Please view the deployed application [here](https://progressive-budget-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
+The purpose of the Progessive Budget application is to allow users to track their expenses and deposits with or without an internet connection. When transactions are entered offline, they will populate the total when the applicatin is brought back online. The user is also able to see a list of all previous transactions as well as a chart displaying the account balance history over time. Please view the deployed application [here](https://progressive-budget-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ _How to install & get the application running._
 
 _Guidelines for usage & application demo._
 
-To use this application ... Please reference the gif below to see a demo of the app in action.
+To use this application simply type the name of the transaction and the amount, then select either **Add Funds** (for deposits) or **Subtract Funds** (for expenses). If you prefer to use the application offline or want to have it easily accessible from your desktop or mobile home screen, it is recommended to download it as a PWA (Progressive Web App). Follow this [PWA Installation Guide](https://medium.com/progressivewebapps/how-to-install-a-pwa-to-your-device-68a8d37fadc1), written by ScandiPWA on [Medium](https://medium.com/), to download the application. Also please reference the gif below to see a demo of the app in action.
 
 ![Progressive Budget Demo](public/assets/images/ProgressiveBudget.gif)
 
